@@ -1,0 +1,17 @@
+966b497d53457daa7c2d757074d680a2 *DESCRIPTION
+37642c0087645306f346cbaa156a02d5 *NAMESPACE
+f928f02c1c4e9f08cc0623e887e0b1f3 *R/BoootMRMR.R
+90955193884b993360a2aa408e749fc4 *data/rice_salt.rda
+1f2ddac3cc98e45f261e35b03d39b7b3 *man/Weights.mrmr.Rd
+442b45e104418c69bc9ac2ceb90ad2db *man/bmrmr.pval.cutoff.Rd
+00c2da620dbd09546b1a0eca0c81e58d *man/bmrmr.weight.cutoff.Rd
+9dab279b864d1bcf21cd3bbeb5824fbb *man/bootmr.weight.Rd
+2c6ada9ae94b85b0de659bba09f692c2 *man/geneslect.f.Rd
+434e433e8e7d2a6dbcb4cf5936561e5b *man/mbmr.pval.cutoff.Rd
+8b57e594df6487c87acade69b2ea0e1c *man/mbmr.weight.cutoff.Rd
+33ca0b598e2fa9be981590d7847f6a79 *man/mrmr.cutoff.Rd
+d09466c849e4e7194d50d3cdec457ea4 *man/pval.bmrmr.Rd
+893f935b584ef16e383066fc97324e55 *man/pval.mbmr.Rd
+0cfae020fbb1cf03c9480c92a5c1a065 *man/rice_salt.Rd
+28e690ff72206a98e93c452794933a34 *man/topsis.meth.Rd
+4dc6ba350d46e5d35c1c9d290130888a *man/weight.mbmr.Rd

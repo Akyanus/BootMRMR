@@ -1,0 +1,3 @@
+export(geneslect.f, Weights.mrmr, mrmr.cutoff, weight.mbmr, mbmr.weight.cutoff, pval.mbmr, mbmr.pval.cutoff , bootmr.weight, bmrmr.weight.cutoff, pval.bmrmr, bmrmr.pval.cutoff, topsis.meth)
+importFrom("stats", "cor", "var", "pnorm")
+importFrom("graphics", "plot")
